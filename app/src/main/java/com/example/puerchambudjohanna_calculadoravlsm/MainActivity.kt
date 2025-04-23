@@ -78,7 +78,7 @@ fun VlsmCalculatorScreen() {
             value = subnets,
             onValueChange = { subnets = it },
             label = { Text("Número de subredes") },
-            placeholder = { Text("Ej: 4") },
+            placeholder = { Text("Ej: 5") },
             singleLine = true,
             keyboardOptions = KeyboardOptions(
                 keyboardType = KeyboardType.Number,

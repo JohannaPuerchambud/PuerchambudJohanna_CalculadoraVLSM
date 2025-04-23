@@ -1,5 +1,5 @@
 package com.example.puerchambudjohanna_calculadoravlsm
-
+//logica de calculadora VLSM
 import kotlin.math.ceil
 import kotlin.math.log2
 import kotlin.math.pow
