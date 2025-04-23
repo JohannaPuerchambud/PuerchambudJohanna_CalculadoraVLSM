@@ -13,8 +13,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.platform.LocalFocusManager
-import androidx.compose.ui.text.input.KeyboardOptions
 import com.example.puerchambudjohanna_calculadoravlsm.ui.theme.PuerchambudJohanna_CalculadoraVLSMTheme
+import androidx.compose.foundation.text.KeyboardOptions
+
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
